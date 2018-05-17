@@ -8,6 +8,7 @@
 
     <modules>
         <module>abstract-factory</module>
+        <module>simple-factory</module>
     </modules>
 
     <properties>
