@@ -15,6 +15,7 @@
         <module>prototype</module>
         <module>template-method</module>
         <module>facade</module>
+        <module>builder</module>
     </modules>
 
     <properties>
