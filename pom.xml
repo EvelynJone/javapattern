@@ -11,6 +11,7 @@
         <module>simple-factory</module>
         <module>strategy</module>
         <module>decorator</module>
+        <module>proxy</module>
     </modules>
 
     <properties>
