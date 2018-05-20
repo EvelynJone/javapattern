@@ -10,6 +10,7 @@
         <module>abstract-factory</module>
         <module>simple-factory</module>
         <module>strategy</module>
+        <module>decorator</module>
     </modules>
 
     <properties>
