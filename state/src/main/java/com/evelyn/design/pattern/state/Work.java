@@ -54,6 +54,6 @@ public class Work {
     }
 
     public void writeProgram() {
-        getState().writeProgram(this);
+       this.current.writeProgram(this);
     }
 }
