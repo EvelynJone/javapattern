@@ -17,6 +17,7 @@
         <module>facade</module>
         <module>builder</module>
         <module>observer</module>
+        <module>state</module>
     </modules>
 
     <properties>
