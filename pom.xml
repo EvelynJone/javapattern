@@ -19,6 +19,7 @@
         <module>observer</module>
         <module>state</module>
         <module>adapter</module>
+        <module>memento</module>
     </modules>
 
     <properties>
