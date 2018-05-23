@@ -18,6 +18,7 @@
         <module>builder</module>
         <module>observer</module>
         <module>state</module>
+        <module>adapter</module>
     </modules>
 
     <properties>
