@@ -21,6 +21,7 @@
         <module>adapter</module>
         <module>memento</module>
         <module>composite</module>
+        <module>iterator</module>
     </modules>
 
     <properties>
