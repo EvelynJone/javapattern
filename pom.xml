@@ -23,6 +23,7 @@
         <module>composite</module>
         <module>iterator</module>
         <module>singleton</module>
+        <module>bridge</module>
     </modules>
 
     <properties>
